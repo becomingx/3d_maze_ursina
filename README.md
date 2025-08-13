@@ -1,5 +1,8 @@
 A proof of concept throwback to the old 3d maze screensaver from Windows 95 built with Python and Ursina for Linux.
 
+##Sample of the program in action:
+https://patriciatirado9.wistia.com/medias/elbegmhlsn
+
 ## Author: Patricia Tirado 
 Follow me on LinkedIn: 
 www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=patriciatirado29a 
